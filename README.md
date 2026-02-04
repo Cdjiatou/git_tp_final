@@ -39,6 +39,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 Noms des étudiants : 
 * NGNIPICBA DJIATOU Carlex
 * NYEMB NKEN Dimitri
+* NDONKENG Caroline
   
 
 Date du jour : 04/02/2026
